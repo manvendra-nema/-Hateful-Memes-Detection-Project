@@ -62,12 +62,16 @@ Develop a multimodal detection system to classify memes as hateful or not hatefu
 
 ### Loss and Accuracy Plots
 
-![Loss Plot](path/to/loss_plot.png)
-![Accuracy Plot](path/to/accuracy_plot.png)
 
 ### T-SNE Plots
 
-![T-SNE Plot Image-Only](path/to/tsne_image_only.png)
-![T-SNE Plot Text-Only](path/to/tsne_text_only.png)
-![T-SNE Plot Multimodal](path/to/tsne_multimodal.png)
+![image](https://github.com/user-attachments/assets/ccf72ece-d064-4700-88f8-c108a6219d67)
+
+
+![image](https://github.com/user-attachments/assets/0b9568e4-b606-4c7d-af8b-42bb8492b936)
+
+
+![image](https://github.com/user-attachments/assets/a14c4dff-3261-4cdf-9f9b-fb73ef13034d)
+
+
 
