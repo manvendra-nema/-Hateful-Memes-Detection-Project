@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd0eb635-e45f-48bd-94bd-12734124bd25)# 🎭 Hateful Memes Detection Project
+# 🎭 Hateful Memes Detection Project
 
 Welcome to the Hateful Memes Detection Project! This repository contains the code and resources for developing deep learning models to classify memes as hateful or not hateful. The project is divided into three tasks: image-only detection, text-only detection, and multimodal detection (combining both image and text). Let's dive in! 🕵️‍♂️
 
