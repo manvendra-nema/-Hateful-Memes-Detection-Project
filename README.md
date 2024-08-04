@@ -1,4 +1,4 @@
-# 🎭 Hateful Memes Detection Project
+![image](https://github.com/user-attachments/assets/bd0eb635-e45f-48bd-94bd-12734124bd25)# 🎭 Hateful Memes Detection Project
 
 Welcome to the Hateful Memes Detection Project! This repository contains the code and resources for developing deep learning models to classify memes as hateful or not hateful. The project is divided into three tasks: image-only detection, text-only detection, and multimodal detection (combining both image and text). Let's dive in! 🕵️‍♂️
 
@@ -62,12 +62,13 @@ Develop a multimodal detection system to classify memes as hateful or not hatefu
 
 ### Loss and Accuracy Plots
 
-![Loss Plot](path/to/loss_plot.png)
-![Accuracy Plot](path/to/accuracy_plot.png)
 
 ### T-SNE Plots
 
-![T-SNE Plot Image-Only](path/to/tsne_image_only.png)
-![T-SNE Plot Text-Only](path/to/tsne_text_only.png)
-![T-SNE Plot Multimodal](path/to/tsne_multimodal.png)
+![image](https://github.com/user-attachments/assets/f9bf49ed-64ba-43f7-9b06-fa9298830d75)
+
+![image](https://github.com/user-attachments/assets/dbd14900-c8f5-429b-9a58-c7fd7807b853)
+
+![image](https://github.com/user-attachments/assets/5010320e-f48a-4ea8-9066-1524fd595cd2)
+
 
